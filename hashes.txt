@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sábanas sin alma
+
+This log tracks the cryptographic history and versioning for the song **Sábanas sin alma** (sabanas-sin-alma).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T04:05:58.575550 | `v1` | `3264c9915b278323b83b523e48ff4906cc1685181e96eac506cd1e0855bb59d4` | `be57121c2ea67d458d7b95a22c82e1a628cb6c0741103a8fa660e1e214ce5a07` | `2026-06-20_sabanas-sin-alma-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

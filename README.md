@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabanas-sin-alma/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Sábanas sin alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-sin-alma/) |
+| **Get License** | [Secure Licensing Rights for Sábanas sin alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-sin-alma/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3264c9915b278323b83b523e48ff4906cc1685181e96eac506cd1e0855bb59d4` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
